@@ -2,7 +2,7 @@
 
 Samba docker container.
 
-:warning: This is a fork of [dperson/samba](https://github.com/dperson/samba) maintained by @morremeyer. It has reduced functionality for exactly the use cases I need. You're welcome to add more functionality.
+:warning: This is a fork of [dperson/samba](https://github.com/dperson/samba) maintained by [morremeyer](https://github.com/morremeyer). It has reduced functionality for exactly the use cases I need. You're welcome to add more functionality if regular maintanance of the functionality is automatable.
 
 # What is Samba?
 
