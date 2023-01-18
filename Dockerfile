@@ -1,4 +1,4 @@
-FROM alpine:3.17.0
+FROM alpine:3.17.1
 LABEL MAINTAINER="Morre <morre@mor.re>"
 
 # Install samba
