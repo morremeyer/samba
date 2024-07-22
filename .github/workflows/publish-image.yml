@@ -22,7 +22,7 @@ jobs:
 
       - name: Log in to the Container registry
         if: ${{ steps.push_check.outputs.push }}
-        uses: docker/login-action@v3.2.0
+        uses: docker/login-action@v3.3.0
         with:
           registry: ghcr.io
           username: ${{ github.actor }}
