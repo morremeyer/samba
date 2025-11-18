@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out the repo
-        uses: actions/checkout@v4.3.1
+        uses: actions/checkout@v5.0.1
 
       - name: Check if we need to login and if image should be pushed
         id: push_check
